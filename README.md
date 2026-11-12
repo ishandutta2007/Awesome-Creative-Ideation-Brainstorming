@@ -1,6 +1,6 @@
 # Awesome-Creative-Ideation-Brainstorming
 
-# Top Creative Ideation & Brainstorming Ecosystem
+## Top Creative Ideation & Brainstorming Ecosystem
 
 **Curated List of SaaS Products & Open-Source GitHub Projects**  
 *Focused on Digital Whiteboards, Mind Mapping & Real-Time Collaborative Workshops*  
