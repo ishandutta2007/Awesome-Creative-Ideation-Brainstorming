@@ -10,7 +10,7 @@
 
 <p align="center">
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-  <a href="https://github.com/ishandutta2007/Awesome-Creative-Ideation-Brainstorming/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Creative-Ideation-Brainstorming?style=flat-square&logo=github&color=gold" alt="GitHub Stars" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Creative-Ideation-Brainstorming/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Creative-Ideation-Brainstorming?style=flat-square&logo=github&color=gold" alt="GitHub_Stars" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Creative-Ideation-Brainstorming/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Creative-Ideation-Brainstorming?style=flat-square&logo=github&color=blue" alt="GitHub Forks" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Creative-Ideation-Brainstorming/issues"><img src="https://img.shields.io/github/issues/ishandutta2007/Awesome-Creative-Ideation-Brainstorming?style=flat-square&color=red" alt="GitHub Issues" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Creative-Ideation-Brainstorming/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-MIT-green?style=flat-square" alt="License" /></a>
@@ -74,9 +74,9 @@ A comparative overview of top-tier commercial cloud solutions for collaborative 
 
 Explore the most capable open-source visual thinking repositories, self-hostable whiteboards, and mind mapping software. 
 
-*All repositories are strictly sorted in descending order by GitHub Stars.* Beside each repository name is a live social badge linking directly to that project's stargazers:
+*All repositories are strictly sorted in descending order by GitHub_Stars.* Beside each repository name is a live social badge linking directly to that project's stargazers:
 
-| Project &amp; Repository | GitHub Stars | Primary Language / Tech | Description |
+| Project &amp; Repository | GitHub_Stars | Primary Language / Tech | Description |
 |:---|:---:|:---:|:---|
 | **[Excalidraw](https://github.com/excalidraw/excalidraw)** | [![Stars](https://img.shields.io/github/stars/excalidraw/excalidraw?style=social&color=white)](https://github.com/excalidraw/excalidraw/stargazers) | TypeScript / React | **The gold standard virtual whiteboard for hand-drawn style diagrams.** Infinite canvas, rich shape libraries, end-to-end encrypted live collaboration, and export to PNG, SVG, or JSON. Embeddable component for web applications. |
 | **[Mermaid](https://github.com/mermaid-js/mermaid)** | [![Stars](https://img.shields.io/github/stars/mermaid-js/mermaid?style=social&color=white)](https://github.com/mermaid-js/mermaid/stargazers) | JavaScript | **Diagram-as-code and markdown-driven ideation engine.** Render complex mind maps, flowcharts, sequence diagrams, and class charts directly from plain text syntax inside markdown files and documentation engines. |
@@ -126,7 +126,7 @@ Contributions are warmly welcome! Help make this the most comprehensive and up-t
 
 1. 🍴 Fork the repository.
 2. 🌿 Create a descriptive feature branch (`git checkout -b add-tool-name`).
-3. 📝 Add or update the entry in `README.md` following the existing format (include verified pricing, exact free tier limits, star badges, and factual descriptions).
+3. 📝 Add or update the entry in `README.md` following the existing format (include verified pricing, exact free tier limits, Stars_Badges, and factual descriptions).
 4. 🚀 Commit your changes and open a Pull Request with a short summary of the updates.
 
 ---
